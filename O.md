@@ -13,4 +13,4 @@
 
 > 번역 : WebGL에서 물체를 렌더링 하는데 객체지향 언어인 Javascript를 사용한다.
 
-<#object> 로 가기
+object(#object) 로 가기
