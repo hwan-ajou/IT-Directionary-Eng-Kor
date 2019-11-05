@@ -11,9 +11,9 @@
 
 \<general\> 대상 - 목적지를 의미 할때 
 
-> Example [TTA사전] - object distance -대상 거리, 對象距離 - 광학계에서 특정 대상 측의 원점 대상까지 광측을 따라 측정한 거리. 여기서 원점이란 대상 초점, 광학계를 구성하는 렌즈 등의 제1면의 정점 등을 말한다.
+> Example [TTA사전][TTA사전] - object distance -대상 거리, 對象距離 - 광학계에서 특정 대상 측의 원점 대상까지 광측을 따라 측정한 거리. 여기서 원점이란 대상 초점, 광학계를 구성하는 렌즈 등의 제1면의 정점 등을 말한다.
 
-\<programming/compile\> **목적, 目的** - 원시(source)에 반대되는 말로 원시 프로그램을 컴파일 또는 어셈블하여 나온 기계어 부호를 가리키는 말. [TTA사전]
+\<programming/compile\> **목적, 目的** - 원시(source)에 반대되는 말로 원시 프로그램을 컴파일 또는 어셈블하여 나온 기계어 부호를 가리키는 말. [TTA사전][TTA사전]
 
 [object](#object) 로 가기
 [TTA사전]: http://word.tta.or.kr/main.do
