@@ -15,7 +15,8 @@
 
 \<programming/compile\> **목적, 目的** - 원시(source)에 반대되는 말로 원시 프로그램을 컴파일 또는 어셈블하여 나온 기계어 부호를 가리키는 말. [TTA사전][TTA사전]
 
-[object](#object) 로 가기
 [TTA사전]: http://word.tta.or.kr/main.do
+
 [KS사전]: https://standard.go.kr/KSCI/dictionary/getDictionaryList.do
+
 [우리말샘]: https://opendict.korean.go.kr/main
