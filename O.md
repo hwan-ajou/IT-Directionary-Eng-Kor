@@ -2,9 +2,9 @@
 
 ## Object
 
-<general> 물체 - 일반적인 물체를 의미 할때
+\<general\> 물체 - 일반적인 물체를 의미 할때
 
-<programming> 객체 - 프로그래밍 대상 데이터를 의미 할때 
+\<programming\> 객체 - 프로그래밍 대상 데이터를 의미 할때 
 
 <blockquote>
 Example : Object oriented language, Javascript is used for redering an object in WebGL.
